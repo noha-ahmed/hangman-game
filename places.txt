@@ -1,0 +1,13 @@
+hospital
+school
+restaurant
+house
+airport
+museum
+clinic
+office
+company
+club
+street
+shop
+
